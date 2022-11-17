@@ -1,0 +1,37 @@
+body {
+    font-family: Verdana, sans serif;
+    color: black;
+    background-color: #F0F8FF;
+}
+
+
+article {
+    background-color: #c19a67;
+
+}
+
+
+footer {
+    margin-top: 50px;
+    height: 50px;
+    background-color: #634319;
+}
+
+section {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 10px;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(51, 0, 255);
+}
+
+footer {
+    color: white;
+}
+
+a:hover {
+    color: rgb(0, 255, 0);
+}
